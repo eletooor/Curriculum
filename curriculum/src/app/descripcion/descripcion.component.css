@@ -1,0 +1,10 @@
+div p{
+    font-family: Arial;
+    font-size: 12pt;
+}
+
+#conocimientos{
+    border-radius: 50pt;
+    border-color: cornflowerblue;
+    border: cornflowerblue;
+}

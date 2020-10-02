@@ -1,0 +1,22 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: black;
+}
+
+#datosPersonales{
+    position: relative;
+    margin-left: 50%;
+
+}
+
+div table tr td:nth-child(1){
+    font-weight: bold;
+
+}
+
+table{
+    font-size: 12pt;
+    font-family:  sans-serif
+}
+

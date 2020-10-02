@@ -1,0 +1,12 @@
+#contenido {
+     padding: 2cm;
+     width:50%;
+     margin:0 auto; 
+     border-radius: 5%;
+     border: solid 1px #2c4bfa;
+    } 
+
+    #boton{
+        width:50%;
+     margin:0 auto; 
+    }
